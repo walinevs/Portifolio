@@ -27,6 +27,25 @@ Resultado Visual:
 
 <img width="1464" height="701" alt="image" src="https://github.com/user-attachments/assets/f10d75d3-66be-4b2b-ba84-d48544dc06c8" />
 
+---
+
+## 🏁 Conclusão e Próximos Passos
+Este projeto foi fundamental para entender como transformar dados em informações de negócio. 
+
+**O que aprendi:**
+* `INNER JOIN` para gerar lista dos "Top Compradores", apenas clientes com pedidos confirmados.
+* A importância do `LEFT JOIN` para não perder dados de clientes inativos.
+* Como usar `HAVING` para filtrar resultados que já foram agrupados (algo que o `WHERE` não faz).
+* Organização de scripts para relatórios executivos.
+
+*Próximo desafio: Explorar subqueries e Views para otimizar ainda mais essas consultas.*
+
+---
+## 🛠️ Ferramentas Utilizadas
+
+* **Banco de Dados:** SQL Server (Base Northwind)
+* **IDE:** SQL Server Management Studio (SSMS)
+* **Linguagem:** T-SQL
 
 
 
